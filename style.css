@@ -10,6 +10,15 @@ Body{
     height: 30px;
     background-color: darkgray;
 }
+img{
+    width: 170px;
+    height: 35px;
+    position: absolute;
+    left: 29%;
+    top: 60%;
+    border-radius: 10px;
+    border-color: black;
+}
 h2{
     position: absolute;
     left: 2%;
@@ -37,7 +46,7 @@ h1{
     height: 10px;
     width: 100%;
     position: absolute;
-    top: 70px;
+    top: 72px;
 }
 .Gold{
     font: optional;
