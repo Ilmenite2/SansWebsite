@@ -39,15 +39,6 @@ h1{
     position: absolute;
     top: 70px;
 }
-.goldline{
-    height: 250px;
-    width: 10px;
-    background-color: black;
-    position: absolute;
-    top: -250px;
-    left: 200px;
-    z-index: -1;
-}
 .Gold{
     font: optional;
     width: 400px;
@@ -82,16 +73,6 @@ h1{
     left:70%;
     background-color: black;
 }
-.infoline{
-    height: 250px;
-    width: 10px;
-    background-color: black;
-    position: absolute;
-    top: 170px;
-    left: 985px;
-    rotate: 37deg;
-    z-index: -1;
-}
 .karten{
     font: optional;
     width: 400px;
@@ -115,16 +96,6 @@ h1{
     background-color: white;
     font-size: 40px;
 }
-.kartenline{
-    height: 250px;
-    width: 10px;
-    background-color: black;
-    position: absolute;
-    top: 36%;
-    left: 1000px;
-    rotate: 90deg;
-    z-index: -1;
-}
 .Ausbildung{
     font: optional;
     width: 400px;
@@ -147,16 +118,6 @@ h1{
     border-radius: 4px;
     background-color: white;
     font-size: 32px;
-}
-.Ausbildungline{
-    height: 250px;
-    width: 10px;
-    background-color: black;
-    position: absolute;
-    top: 170px;
-    left: 525px;
-    rotate: -37deg;
-    z-index: -1;
 }
 .aktien{
     font: optional;
@@ -202,16 +163,6 @@ h1{
     left:6%;
     background-color: black;
 }
-.ratschlagline{
-    height: 300px;
-    width: 10px;
-    background-color: black;
-    position: absolute;
-    top: 50%;
-    left: 525px;
-    rotate: 37deg;
-    z-index: -1;
-}
 .kridit{
     font: optional;
     width: 400px;
@@ -235,15 +186,6 @@ h1{
     background-color: white;
     font-size: 20px;
 }
-.kriditline{
-    height: 250px;
-    width: 10px;
-    background-color: black;
-    position: absolute;
-    top: 350px;
-    left: 761px;
-    z-index: -1;
-}
 .abteilunge{
     font: optional;
     width: 400px;
@@ -254,14 +196,4 @@ h1{
     top: 70%;
     left:70%;
     background-color: black;
-}
-.abteilungeline{
-    height: 300px;
-    width: 10px;
-    background-color: black;
-    position: absolute;
-    top: 50%;
-    left: 990px;
-    rotate: -37deg;
-    z-index: -1;
 }
